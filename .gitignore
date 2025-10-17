@@ -1,0 +1,36 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data files (optional, ignore if large)
+data/
+*.csv
+*.json
+
+# Images/screenshots (optional, ignore if large)
+images/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (optional)
+.vscode/
+.idea/
