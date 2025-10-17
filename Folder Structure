@@ -1,0 +1,18 @@
+kritika-quantum-memory/
+│
+├── README.md                 # Project overview and instructions along with the data
+├── LICENSE                   # Custom “all rights reserved” license
+├── requirements.txt          # Python dependencies
+├── .gitignore                # Ignore unnecessary files
+│
+├── scripts/                  # Standalone Python scripts
+│   └── quantum_memory_dashboard.py
+│
+├── notebooks/                # Jupyter notebooks for interactive exploration
+│   └── Kritika's_Quantum_Companion.ipynb
+│
+├── data/                     # Optional folder for datasets (ignored)
+│   └── ...
+│
+└── images/                   # Optional folder for screenshots/plots (ignored)
+    └── ...
